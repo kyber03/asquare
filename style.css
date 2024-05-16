@@ -27,22 +27,35 @@ input{
     justify-content: space-between;
     align-items: center;
     margin: 20px;
+    padding: 20px;
 }
+
+ 
 
 label{
     display: flex;
     flex-direction: column;
     justify-content: center;
+     
     }
+
+
 .wordings{
     width: 40%;
     height: 500px;
     font-size: 30px;
-    padding: 30px;
+     
  
 }
 .register{
     margin-right: 13%;
+    height: 500px;
+    border-bottom-style: dotted;
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    padding: 20px;
 }
 
 
